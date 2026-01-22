@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there!  I'm Kevin Sung 👋
+
+<p align="center">
+  <b>Front End Web Developer</b><br>
+  I make the user's needs a reality.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinsungdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 
 <!--
 **BinaryFour/BinaryFour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
